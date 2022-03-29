@@ -68,7 +68,7 @@ class LoginPage extends StatelessWidget
                         [
                           Text
                           (
-                            'Sopa de macaco',
+                            'Food Delivery Service',
                             style: TextStyle
                             (
                               color: Color.fromRGBO(124, 125, 126, 1.0),
@@ -81,7 +81,7 @@ class LoginPage extends StatelessWidget
                           ),
                           Text
                           (
-                            'Uma delicia',
+                            'Muchos restaurantes disponibles',
                             style: TextStyle
                             (
                               color: Color.fromRGBO(124, 125, 126, 1.0),
